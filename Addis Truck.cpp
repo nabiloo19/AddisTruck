@@ -813,9 +813,9 @@ void ourinfo()
 
 			cout<<"\t#Admin password is 12345#\n\n";
 
-			cout<<"\t\t Done By:
-				"\tNabil Mohammed\n"
-				"\tEmail: nabil.alanssi19@gmail.com\n"
+			cout<<"\t\t   Done By:\n"
+				"\t\tNabil Mohammed\n"
+				"\t\tEmail: nabil.alanssi19@gmail.com\n";
 				
 				
 		cin.get();
