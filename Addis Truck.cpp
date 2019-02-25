@@ -813,18 +813,10 @@ void ourinfo()
 
 			cout<<"\t#Admin password is 12345#\n\n";
 
-			cout<<"\t\tGROUP MEMBERS\n"
-				"\tName:-\t\t\t\t\tID:-\n"
-
-				"\t1,Natnael Abebaw\t\t\t18/11,726\n"
-				"\t2,Nabil Mohammed\t\t\t18/11,763\n"
-				"\t3,Abel Gizachew\t\t\t\t18/11,746\n"
-				"\t4,Minilik Seyoum\t\t\t18/11,722\n"
-				"\t5,Birhan Tsegaye\t\t\t18/11,708\n"
-				"\t6,Natnael Alemzewd\t\t\t18/11,796\n"
-				"\t7,Mubarek Getachew\t\t\t18/11,793\n"
-				"\t8,Nebyu Gizaw\t\t\t\t18/##\n"
-				"\t9,Sufyan Mohammed\t\t\t18/11,736\n"
-				"\t10,Yegnasew Inbiale\t\t\t19/1427\n";
+			cout<<"\t\t Done By:
+				"\tNabil Mohammed\n"
+				"\tEmail: nabil.alanssi19@gmail.com\n"
+				
+				
 		cin.get();
 }
